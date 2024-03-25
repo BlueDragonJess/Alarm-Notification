@@ -9,3 +9,5 @@ and the moment we press the "Set" or "Save" buttom a notification pop's in the b
  Ever wondered how do we set that small little notification code in Python?
  
  Well... Here is the code I used to make an exercise in one of my online classes.
+
+Note: This is the first project that I am uploading in Github, and I am still trying to learn my way around the platform and all it as to offer
