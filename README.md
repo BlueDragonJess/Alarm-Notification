@@ -5,6 +5,7 @@
  wait from.
 
 # Visual tests
+![Alarm_Notification](https://github.com/BlueDragonJess/Alarm-Notification/assets/151972947/73221d5b-d451-43e6-970d-17c61798b7fa)
 
 # Acknowledgements
  A better understanding of simple calculations on a useful function to be used on a future more complex context.
