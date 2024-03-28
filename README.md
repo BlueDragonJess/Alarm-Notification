@@ -4,5 +4,8 @@
  With this project I'm creating a program capable of calculating the amount of days and hours the user has to wait from a given hour and a given time to
  wait from.
 
-# Acknowledgements 
+# Visual tests
+![Alarm_Notification](https://github.com/BlueDragonJess/Alarm-Notification/assets/151972947/bb720288-50a0-4972-93d3-d8eeebfceff5)
+
+# Acknowledgements
  A better understanding of simple calculations on a useful function to be used on a future more complex context.
