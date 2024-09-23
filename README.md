@@ -5,6 +5,7 @@
  wait from.
 
 # Visual tests
+![Alarm_Notification](https://github.com/user-attachments/assets/044a45fb-e572-4b88-b1c2-d8455bca4741)
 
 
 # Acknowledgements
